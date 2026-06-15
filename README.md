@@ -1,4 +1,4 @@
-# Simple Web Server with Node.js (Assignment 6)
+# Simple Web Server with Node.js
 
 A basic, lightweight multi-page web server built from scratch using Node.js's native `http` module. This project demonstrates core backend development concepts, including dynamic routing, HTTP status codes, handling invalid paths with a custom 404 page, and embedding custom CSS styling without relying on external frameworks like Express.
 
